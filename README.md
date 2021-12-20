@@ -1,3 +1,10 @@
+# Haystack 2021 Search Technology Radar
+
+This search technology radar was created during the 2021 Haystack search relevance conference.
+
+The basis for the radar was forked from [zolando/tech-radar](https://github.com/zalando/tech-radar) which is itself based on
+the [Thoughtworks Radar](https://www.thoughtworks.com/radar).
+
 # Motivation
 
 At [Zalando](http://zalando.de), we maintain a [public Tech
